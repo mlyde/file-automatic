@@ -14,3 +14,4 @@
 
 ## 完整代码  
 [查看完整代码](https://github.com/mlyde/lrc-timetag-change/blob/main/lrc-timetag-change.py) (2021.5 by mlyde)  
+[下载Windows程序](https://github.com/mlyde/lrc-timetag-change/raw/main/lrc-timetag-change.exe) (用`pyinstaller`编译为exe，大小：6.53MB，无python环境可下载运行)  
