@@ -15,4 +15,4 @@
 >2. 可能查看部分文件夹或文件时需要管理员权限, 否则会报错。  
 
 # 完整代码  
-[查看完整代码](https://github.com/mlyde/file-automatic/compare-repeat-file/compare-repeat-file.py "compare-repeat-file.py")(2021.8 by mlyde)  
+[查看完整代码](https://github.com/mlyde/file-automatic/blob/main/compare-repeat-file/compare-repeat-file.py "compare-repeat-file.py")(2021.8 by mlyde)  
