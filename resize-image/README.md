@@ -14,4 +14,4 @@ cut 函数，将图片裁剪为指定大小，统一分辨率，缩放后取图�
 >3.多次缩放可能会使图片变得模糊，尤其是文字边缘。  
 
 ## 完整代码  
-[查看完整代码](https://github.com/mlyde/file-automatic/blob/main/resize-image/resize-image.py) (2021.8 by mlyde)  
+[查看完整代码](https://github.com/mlyde/file-automatic/blob/main/resize-image/resize-image.py) (2021.10 by mlyde)  
